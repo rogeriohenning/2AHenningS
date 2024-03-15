@@ -6,3 +6,10 @@ header{
 .logotipo{
     width: 120px;
 }
+
+.cabecalho{
+    background-color: #97F813;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
