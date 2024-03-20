@@ -5,6 +5,7 @@ header{
 
 .logotipo{
     width: 120px;
+    position: relative;
 }
 
 .cabecalho{
