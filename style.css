@@ -14,3 +14,9 @@ header{
     background-color: #97F813;
     color: white;
 }
+
+.cabecalho-lista{
+    display: flex;
+    position: relative;
+    
+}
