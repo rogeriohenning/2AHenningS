@@ -9,13 +9,11 @@
 .cabecalho{
     background-color: #97F813;
     color: white;
-    text-align: center;
-    
+    text-align: justify;
 }
 
 .cabecalho-lista{
     display: flex;
     position: relative;
     left: 300px;
-
 }
