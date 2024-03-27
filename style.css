@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Oswald:wght@200..700&display=swap');
 
 .logotipo{
     width: 120px;
@@ -10,6 +11,7 @@
     background: linear-gradient(#97f813, #cafc85,#ffffff);
     color: white;
     text-align: justify;
+    font-family: "Dela Gothic One", sans-serif;
 }
 
 .cabecalho-lista{
