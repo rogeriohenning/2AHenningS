@@ -20,7 +20,8 @@
 
 .cabecalho-lista-item{
     font-size: 30px;
-    margin-left: 60px;
+    margin-left: 50px;
     color: #000000;
     list-style-type: none;
+    font-weight: bolder;
 }
