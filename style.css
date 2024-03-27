@@ -30,3 +30,8 @@
     margin: 30px;
     margin-top: 20px;
 }
+
+.logo-e-nome{
+    display: flex;
+    vertical-align: center;
+}
