@@ -17,3 +17,10 @@
     position: relative;
     left: 300px;
 }
+
+.cabecalho-lista-item{
+    font-size: 30px;
+    margin-left: 60px;
+    color: #000000;
+    list-style-type: none;
+}
