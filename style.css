@@ -37,3 +37,9 @@
     display: flex;
     vertical-align: center;
 }
+
+.Notebook{
+    display: grid;
+    grid-template-columns: 40% 40%;
+    margin-left: 10%;
+}
