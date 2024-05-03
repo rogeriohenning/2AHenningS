@@ -47,3 +47,9 @@
 .note-imagem{
     width: 100px;
 }
+
+.nome-produto{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
